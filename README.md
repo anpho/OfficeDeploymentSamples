@@ -7,7 +7,7 @@ This repo contains some sample xmls for ODT ( Office Deployment Tool ) .
 
 1. Download ODT from [Microsoft ODT](https://learn.microsoft.com/zh-cn/microsoft-365-apps/deploy/overview-office-deployment-tool)
 2. Download sample to the same directory
-3. run `.\setup.exe [path to some.xml]` <-- change to your xml
+3. run `.\setup.exe /configure [path to some.xml]` <-- change to your xml
 
 ## How to modify
 
